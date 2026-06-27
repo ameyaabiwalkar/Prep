@@ -105,7 +105,7 @@ O(1)
 
 ## Similar Problems
 
-- 209. Minimum Size Subarray Sum
-- 1456. Maximum Number of Vowels in a Substring
-- 1004. Max Consecutive Ones III
-- 424. Longest Repeating Character Replacement
+- Minimum Size Subarray Sum
+- Maximum Number of Vowels in a Substring
+- Max Consecutive Ones III
+- Longest Repeating Character Replacement
